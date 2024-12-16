@@ -1,6 +1,4 @@
-<div style="text-align: justify;">
 The repository contains Jupyter notebook (Pratit Kandel_10459709_Mini Project 1.ipynb) that includes solutions and visualizations related to different questions pertaining to "iris.csv" and "laptop_price - dataset". The "requirements.txt" file contains all the necessary libraries that need to be installed to run the notebook.
-</div>
 
 **First Run Setup:**
 
