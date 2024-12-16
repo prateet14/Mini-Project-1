@@ -12,11 +12,11 @@ The repository contains Jupyter notebook (Pratit Kandel_10459709_Mini Project 1.
 
 5. Activate the virtual environment
    
-   ``` On windows: .\venv\Scripts\activate
+   ``` On windows: .\venv\Scripts\activate```
    
-   On MacOS/Linux: source venv/bin/activate 
+   ``` On MacOS/Linux: source venv/bin/activate ```
    
-   + (venv) should appear as prefix to all command (run next command just after activating venv) ```
+   + (venv) should appear as prefix to all command (run next command just after activating venv)
   
 7. Install the necessary libraries
    
