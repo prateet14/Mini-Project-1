@@ -3,15 +3,20 @@ The repository contains Jupyter notebook (Pratit Kandel_10459709_Mini Project 1.
 **First Run Setup:**
 
 1. Clone the repository
+   
    git clone https://github.com/prateet14/Mini-Project-1.git
 
-2. Set up a virtual environment
+3. Set up a virtual environment
+   
    python -m venv venv
 
-3. Activate the virtual environment
+5. Activate the virtual environment
+   
    On windows: .\venv\Scripts\activate
    On MacOS/Linux: source venv/bin/activate
+   
    + (venv) should appear as prefix to all command (run next command just after activating venv)
   
-4. Install the necessary libraries
+7. Install the necessary libraries
+   
    pip install -r requirements.txt
